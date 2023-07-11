@@ -124,3 +124,62 @@
     width: 310px;
     height: 408px;
 }
+.service-container {
+    padding-top: 190px;
+    padding-bottom: 190px;
+    margin: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    
+}
+.t-title {
+    font-weight:normal ;
+    align-items: center;
+   
+}
+.service-img-1{
+    padding-left: 80px;
+}
+.service-img-2{
+    padding-left: 60px;
+}
+.service-img-3 {
+    padding-left: 20px;
+}
+.deal-banner {
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.deal-title {
+    font-size: 30px;
+}
+.deal-desc {
+    padding-top: 10px;
+}
+.btn-bg-1 {
+    margin-left: 130px;
+    background-color: #E55473;
+    color: white;
+    border-radius: 8px;
+    padding: 20px 40px;
+    
+    gap: 10px;
+    margin-top: 25px;
+}
+.flower-tittle {
+    padding-top: 80px;
+}
+.img-flower {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 80px;
+}
