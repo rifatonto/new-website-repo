@@ -183,3 +183,80 @@
     justify-content: space-around;
     padding: 80px;
 }
+.banner-card {
+    background-image: url('/style/images/rectangle\ 9.png');
+    height: 400px;
+    /* background-size: cover; */
+    display: flex;
+    background-repeat: no-repeat;
+    padding-left: 50px;
+    margin: 75px;
+    align-items: center;
+    text-align: center;
+    background-position: center;
+    
+}
+.banner-text {
+    margin-left: 510px;
+}
+.banner-head {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.banner-desc {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.banner-email {
+    width: 300px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
+.btn-bg-2 {
+    height: 44px; 
+    background-color: #E55473;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 23px;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 20px;
+}
+.footer-h1 {
+    color: white;
+    padding-bottom: 20px;
+}
+.footer-head {
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.flower-wrd {
+    color: #E55473;
+}
+.footer-p-desc {
+    color: white; 
+}
+.footer-copyrght {
+    
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
