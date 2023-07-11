@@ -27,3 +27,100 @@
 .menus li:hover {
     color: brown;
 }
+.banner-img {
+    width: 335px;
+    height: 400px;
+}
+
+.banner-flower-sec {
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);;
+}
+.banner-lft-txt {
+    font-size: 50px;
+}
+.description {
+    font-size: 20px;
+}
+.btn-bg {
+    background-color: #E55473;
+    color: white;
+    border-radius: 8px;
+    padding: 20px 40px;
+    
+    gap: 10px;
+    margin-top: 25px;
+    
+    
+}
+.feature-flower {
+    padding-bottom: 70px;
+}
+.flower-tittle {
+    text-align: center;
+    color: black bold;
+}
+.flower-desc {
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+.all-flower {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 30px;
+    
+}
+.png5-flower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    text-decoration-line: underline;
+    line-height: 35px;
+    text-align: center;
+    font-size: 24px;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+.png6-flower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-decoration-line: underline;
+    font-size: 24px;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+.png7-flower {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    text-decoration-line: underline;
+    font-size: 24px;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+.mini-title {
+    align-items: center;
+    padding-top: 40px;
+    margin-top: 5px;
+}
+.mini-title {
+    align-items: center;
+    padding-top: 40px;
+    margin-top: 5px; 
+}
+.mini-title{
+    align-items: center;
+    padding-top: 40px;
+    margin-top: 5px;
+}
+.img-size {
+    width: 310px;
+    height: 408px;
+}
