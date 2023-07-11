@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container {
+    background-color: black;
+    list-style: none;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo  {
+    color: white;
+    font-size: 30px;
+}
+.flower-word {
+    color: #E55473;
+} 
+.menus {
+    color: white;
+    display: flex;
+    gap: 100px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.menus li:hover {
+    color: brown;
+}
